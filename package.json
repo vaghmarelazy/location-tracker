@@ -4,7 +4,7 @@
   "description": "A real-time tracker application",
   "main": "app.js",
   "scripts": {
-    "start": "node app.js",
+    "start": "app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": ["real-time", "tracker", "socket.io", "express", "ejs"],
